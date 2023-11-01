@@ -1,0 +1,31 @@
+[0
+: 
+{id: 978, question: 'How do you write "Hello World" in an alert box?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+1
+: 
+{id: 565, question: 'Which of the following variables is not a predefined variable?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+2
+: 
+{id: 623, question: 'How can the result set of Mysql be handled in PHP?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+3
+: 
+{id: 764, question: 'Which of the following method can be used to create a MySql database using PHP?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+4
+: 
+{id: 533, question: 'In HTML document the tags', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+5
+: 
+{id: 636, question: 'Multiple inheritance is supported in PHP.', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+6
+: 
+{id: 508, question: 'A homepage is __________', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+7
+: 
+{id: 1064, question: 'Which artisan command would you use to create a new Laravel Model?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+8
+: 
+{id: 755, question: 'Which of the following is correct about PHP?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+9
+: 
+{id: 1058, question: 'What is Laravel?', description: null, answers: {…}, multiple_correct_answers: 'false', …}
+]
