@@ -6,8 +6,10 @@
     border: 1px solid #0DFF92;
     background-color: transparent;
     color: #0DFF92;
+    transition:all 0.4s ease-in-out;
 }
 .btn:hover{
+    cursor: pointer;
     background-color: whitesmoke;
     color: black;
 }
